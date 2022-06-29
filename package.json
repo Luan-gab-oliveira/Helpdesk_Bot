@@ -1,0 +1,25 @@
+{
+  "name": "helpdesk_bot",
+  "version": "1.0.0",
+  "description": "Bot para atendimento de helpdesk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luan-gab-oliveira/Helpdesk_Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luan-gab-oliveira/Helpdesk_Bot/issues"
+  },
+  "homepage": "https://github.com/Luan-gab-oliveira/Helpdesk_Bot#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.2",
+    "venom-bot": "^4.2.0"
+  }
+}
